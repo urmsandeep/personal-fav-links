@@ -30,7 +30,7 @@ Below are my personal favorites list of few videos which I like and have learnt 
 * Why is glass transparent? - Mark Miodownik: [https://www.youtube.com/watch?v=VwRLIt6jgdM](https://www.youtube.com/watch?v=VwRLIt6jgdM)
 
 
-### Notes
+### Notes:
 * Luhmann’s slip-box: [https://praxis.fortelabs.co/how-to-take-smart-notes/](https://web.archive.org/web/20200204210404/https://praxis.fortelabs.co/how-to-take-smart-notes/)
 
 ### Tutorials:
